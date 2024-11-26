@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am an product engineer in semiconductor industry, occupied in python programming for lithography model.
 
-I am a postgraduate student set to complete my Master's degree in 2024, engaged in a joint program between [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) and [Institute of Physics, Chinese Academy of Sciences](http://english.iop.cas.cn/). 
+I recently completed my Master's degree in [Your Field] in July this year, as part of a joint program between [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) and [Institute of Physics, Chinese Academy of Sciences](http://english.iop.cas.cn/). 
 
 Advised by PI [He Yu](https://sustech.edu.cn/zh/faculties/heyu.html) from the Institute for Quantum Science and Engineering, Sustech, I have dedicated my studies to silicon-based quantum dots, primarily focused on quantum simulation utilizing scanning tunneling microscopy (STM). Advised by PI [Zhang Jianjun](http://edu.iphy.ac.cn/moreintro.php?id=2212) from the Institute of Physics, CAS, I had the opportunity to study the molecular beam epitaxy (MBE) growth of controlled in-plane Si/Ge nanowires.
 
