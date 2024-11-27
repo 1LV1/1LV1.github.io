@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. at School of Physical and Electronic Engineering, Shanxi University, 2020
-* M.S. at Institute for Quantum Science and Engineering, Southern University of Science and Technology, 2024 (expected)
+* M.S. at Institute for Quantum Science and Engineering, Southern University of Science and Technology, 2024
 
 GPA
 ======
@@ -20,7 +20,7 @@ GPA
 
 Research experience
 ======
-* 2021-now: 
+* 2021-2024: 
   * Advisor: He Yu
   * Institute of Quantum Science and Engineering, Southern University of Science and Technology
   * STM Laboratory of Semiconductor Quantum Dots Quantum Computing research group
