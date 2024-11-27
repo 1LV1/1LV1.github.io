@@ -72,8 +72,8 @@ Honors & Awards:
   * The highest grades in research work evaluations every semester
  
 * 2024
-  * University outstanding graduate student
-  * University outstanding Graduating graduate student
+  * University Outstanding Graduate Student
+  * University Outstanding Graduating Graduate Student
 
 
 Skills & Interests
