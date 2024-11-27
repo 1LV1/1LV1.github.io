@@ -18,10 +18,10 @@ GPA
 ======
 * 3.65 / 4.00
 
-Research experience
+Research Experience
 ======
 * 2021-2024: 
-  * Advisor: He Yu
+  * Advisor: Yu He 
   * Institute of Quantum Science and Engineering, Southern University of Science and Technology
   * STM Laboratory of Semiconductor Quantum Dots Quantum Computing research group
   * Main project: 1D quantum simulator on quantum dots in silicon, 3D integrated quantum chip
@@ -30,14 +30,14 @@ Research experience
   * Equipment: STM ultrahigh vacuum systems combined with MBE, laser direct writing machine, SEM and other micro and nano fabrication equipment
 
 * 2021: 
-  * Advisor: Zhang Jianjun
+  * Advisor: Jianjun Zhang
   * Institute of Physics, Chinese Academy of Sciences
   * N09 Semiconductor Quantum Materials and Devices research group
   * Project involved: controlled nucleation and growth of nanodots and nanowires
   * Equipment: 4-inch and 6-inch of group VI MBE system
 
 * 2020:
-  * Advisor: Li Weidong
+  * Advisor: Weidong Li
   * Institute of Theoretical Physics, Shanxi University
   * Theoretical research on Rabi oscillation and Rabi spectrum
   * the graduation thesis completed based on this topic was awarded as the outstanding undergraduate graduation thesis of Shanxi University in 2020.
@@ -47,7 +47,11 @@ Research experience
   * Laser Medical Image Processing Based on Neighborhood Concerning Gaussian Mixture Model
   * Participated in the 14th National Conference on Laser Technology and Optoelectronics (LTO 2019) and the Chinese Optical Ten Progress in 2018 and gave an oral report at the conference.
 
-Honor & Awards:
+Work Experience
+======
+
+
+Honors & Awards:
 ======
 * 2017:
   * University Excellent Student Leader
@@ -70,19 +74,22 @@ Honor & Awards:
 * 2024
   * University outstanding graduate student
   * University outstanding Graduating graduate student
+
+
+Skills & Interests
+======
+
+
+
+Patent
+======
+* Yuting Lyu et.al., "A 3D Integrated Quantum Chip and Its Fabrication Method", Invention Patent, China, 202410577620.5[P].
     
 Publication
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Patent
-======
-* Yuting Lyu et.al., "A 3D Integrated Quantum Chip and Its Fabrication Method", Invention Patent, China, 202410577620.5[P].
-
-Skills
-======
 
   
 Contact Me
