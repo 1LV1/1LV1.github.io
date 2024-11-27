@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "Yuting Lyu / Academic Homepage"
 title_separator          : "-"
 name                     : &name "Yuting Lyu"
@@ -82,8 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "Yuting Lyu   吕宇婷"
-  avatar           : "photo.png"
-  bio              : "Postgraduate Student of Sustech"
+  avatar           : "photo.jpg"
+  bio              : "Semiconductor, Quantum Simulation"
   location         : "Shenzhen, China"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
