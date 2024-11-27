@@ -79,7 +79,6 @@ Publication
 
 Patent
 ======
-* 吕宇婷, 王昊等. 一种三维集成量子芯片及其制备方法：中国，202410577620.5[P].
 * Yuting Lyu et.al., "A 3D Integrated Quantum Chip and Its Fabrication Method", Invention Patent, China, 202410577620.5[P].
 
 Skills
