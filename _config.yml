@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Yuting Lyu   吕宇婷"
   avatar           : "photo.jpg"
-  bio              : "Semiconductor \n Quantum Simulation"
+  bio              : "Semiconductor\ \ \ \ \ \ \  Quantum Simulation"
   location         : "Shenzhen, China"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
