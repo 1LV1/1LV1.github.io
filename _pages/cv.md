@@ -49,7 +49,10 @@ Research Experience
 
 Work Experience
 ======
-
+* 2024:
+  * DJEL
+  * Product Engineer
+  * Main Responsibility: simulation of the process from exposure to development, improvement and test of lithography models, features supplement of products based on Python, gauge and model check, mask design
 
 Honors & Awards:
 ======
@@ -78,8 +81,10 @@ Honors & Awards:
 
 Skills & Interests
 ======
-
-
+* Languages: Mandarin, English
+* IT: Python, Matlab, C,
+* Research Interests: Quantum Simulation, Quantum computing, Semiconductor Quantum Dots, Surface Physics, Image Processing
+* Life Interests: Swimming, Table tennis, Piano, Singing, Badminton
 
 Patent
 ======
