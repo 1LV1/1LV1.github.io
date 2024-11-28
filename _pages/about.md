@@ -12,9 +12,9 @@ I am a product engineer in the semiconductor industry, currently occupied with P
 
 I completed my Master's degree in physics in July this year, as part of a joint program between [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) and [Institute of Physics, Chinese Academy of Sciences](http://english.iop.cas.cn/). 
 
-Advised by Prof. [He Yu](https://sustech.edu.cn/zh/faculties/heyu.html) from the Institute for Quantum Science and Engineering, Sustech, I have dedicated my studies to silicon-based quantum dots, primarily focused on quantum simulation utilizing scanning tunneling microscopy (STM). 
+Advised by Prof. [HE Yu](https://sustech.edu.cn/zh/faculties/heyu.html) from the Institute for Quantum Science and Engineering, Sustech, I have dedicated my studies to silicon-based quantum dots, primarily focused on quantum simulation utilizing scanning tunneling microscopy (STM). 
 
-Advised by Prof. [Zhang Jianjun](http://edu.iphy.ac.cn/moreintro.php?id=2212) from the Institute of Physics, CAS, I had the opportunity to study the molecular beam epitaxy (MBE) growth of controlled in-plane Si/Ge nanowires.
+Advised by Prof. [ZHANG Jianjun](http://edu.iphy.ac.cn/moreintro.php?id=2212) from the Institute of Physics, CAS, I had the opportunity to study the molecular beam epitaxy (MBE) growth of controlled in-plane Si/Ge nanowires.
 
 
 Research Interests
