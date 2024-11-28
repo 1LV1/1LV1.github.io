@@ -22,7 +22,7 @@ details p {
   margin-bottom: 12px; /* 设置段落的下边距 */
 }
 </style>
-<br><br>
+\ 
 <details>
   <summary>Introduction</summary>
 <p>
