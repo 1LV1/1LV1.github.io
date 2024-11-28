@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+---------
 * M.S. at Institute for Quantum Science and Engineering, Southern University of Science and Technology, 2024
 * B.S. at School of Physical and Electronic Engineering, Shanxi University, 2020
 
