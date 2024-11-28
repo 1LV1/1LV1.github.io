@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an product engineer in semiconductor industry currently, occupied in Python programming for lithography models.
+I am a product engineer in the semiconductor industry, currently occupied with Python programming for lithography models， which simulate the exposure to development process, contributing to the enhancement of photolithography resolution.
 
 I completed my Master's degree in physics in July this year, as part of a joint program between [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) and [Institute of Physics, Chinese Academy of Sciences](http://english.iop.cas.cn/). 
 
