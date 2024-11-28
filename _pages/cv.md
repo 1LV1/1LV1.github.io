@@ -47,12 +47,7 @@ Research Experience
   * Laser Medical Image Processing Based on Neighborhood Concerning Gaussian Mixture Model
   * Participated in the 14th National Conference on Laser Technology and Optoelectronics (LTO 2019) and the Chinese Optical Ten Progress in 2018 and gave an oral report at the conference.
 
-Work Experience
-------------
-* 2024:
-  * DJEL
-  * Product Engineer
-  * Main Responsibility: simulation of the process from exposure to development, improvement and test of lithography models, features supplement of products based on Python, gauge and model check, mask design
+
 
 Honors & Awards:
 -----------
@@ -79,12 +74,7 @@ Honors & Awards:
   * University Outstanding Graduating Graduate Student
 
 
-Skills & Interests
---------------
-* Languages: Mandarin, English
-* IT: Python, Matlab, Linux, C, Comsol, KLayout, Microsoft Office, Mathematica, Inkscape, Zemax, Materials Studio, Vesta, Origin
-* Research Interests: Quantum Simulation, Quantum Computing, Semiconductor Quantum Dots, Surface Physics, Image Processing
-* Life Interests: Swimming, Table tennis, Piano, Singing, Badminton
+
 
 Patent
 -----
