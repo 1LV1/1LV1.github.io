@@ -1,3 +1,10 @@
+if (publisher !== null && publisher !== undefined) {
+  // 安全地输出 publisher
+} else {
+  // 处理 publisher 为空的情况
+}
+
+
 ---
 permalink: /
 title: "About Me"
