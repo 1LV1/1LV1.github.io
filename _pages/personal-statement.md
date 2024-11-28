@@ -64,7 +64,7 @@ Additionally, alongside my experimental research, I devoted considerable effort 
 </details>
 
 <details>
-  <summary style="font-size: 28px;">Undergraduate Education</summary>
+  <summary>Undergraduate Education</summary>
 <p>
 In 2016, I was admitted to the School of Mathematical Sciences at Shanxi University, achieving the highest score in the college entrance examination. As an active class committee member, I diligently organized and participated in various student organizations, community activities, and class events. By fostering a positive, optimistic, united, and friendly class culture, I successfully cultivated collective cohesion and established a conducive academic atmosphere for classmates' studies and daily lives. Consequently, I was honored with the title of "Excellent Student Leader."
 <br><br>
@@ -78,7 +78,7 @@ Finally, under the meticulous guidance of Prof. Li Weidong, I successfully culmi
 </details>
 
 <details>
-  <summary style="font-size: 28px;">Outlook</summary>
+  <summary>Outlook</summary>
 <p>
 I'm embarking on a path of scientific research, ready to tackle any obstacles that come my way. The road ahead is long, but I'm dedicated to exploring it. I'm enthusiastic about pursuing my ideals, and I will always cherish the vigor of my youth. I'm aiming high but staying grounded as I chart my future course.
 </p>
