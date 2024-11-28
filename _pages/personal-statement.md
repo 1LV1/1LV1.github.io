@@ -1,3 +1,11 @@
+---
+permalink: /personal-statement/
+title: "Personal Statement"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /personal-statement.html
+---
 <style>
 details summary {
   font-size: 32px; /* 设置折叠标题的字号 */
@@ -14,14 +22,7 @@ details p {
 }
 </style>
 
----
-permalink: /personal-statement/
-title: "Personal Statement"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /personal-statement.html
----
+
 <br>
 
 
