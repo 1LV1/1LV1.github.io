@@ -1,12 +1,3 @@
----
-permalink: /personal-statement/
-title: "Personal Statement"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /personal-statement.html
----
-<br>
 <style>
 details summary {
   font-size: 16px; /* 设置折叠标题的字号 */
@@ -22,6 +13,17 @@ details p {
   margin-bottom: 12px; /* 设置段落的下边距 */
 }
 </style>
+
+---
+permalink: /personal-statement/
+title: "Personal Statement"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /personal-statement.html
+---
+<br>
+
 
 <details>
   <summary>Introduction</summary>
@@ -52,8 +54,9 @@ After the completion of initial exploratory work and the establishment of sound 
 <li> Studying the properties of single-electron pumps (SEPs) with the transport characteristics of multiple quantum dots.</li>
 <li> Advancing the alignment technique of 3D top-electrodes integration, enabling the precise control of energy level for various devices.</li>
 <li> Quantum simulation of the dynamic AC-driven SSH model utilizing STM hydrogen depassivation lithography technique.</li>
-<li> Experimental realization of the critical phase utilizing silicon quantum dot systems.
+<li> Experimental realization of the critical phase utilizing silicon quantum dot systems.</li>
 </ul>
+  
 To comprehensively enhance my experimental proficiency, I actively engaged in learning and successfully completed application tests involving various micro-nano machining equipments, such as the step profiler, lithography machine, laser direct writing system, and SEM.
 <br><br>
 Additionally, alongside my experimental research, I devoted considerable effort to acquiring and honing my skills in Python programming, enabling calculations for simple quantum mechanics problems. For instance, I successfully calculated the energy spectrum of the static SSH model, a significant model for topological insulators, and further elucidated the quasi-energy spectrum and transport properties of the dynamic AC-driven SSH model. Besides, recent works include completing a chapter on the simulation of one-dimensional spin chains using STM technology in the atomic manufacturing textbook edited by Professor Song Fengqi of Nanjing University. 
