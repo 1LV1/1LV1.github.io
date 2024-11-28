@@ -34,7 +34,7 @@ details p {
   <br>
 I am a Product Engineer in the semiconductor industry, specializing in computational lithography. My work involves Python programming to enhance and validate photolithography models and new features. The primary model I work on simulates the entire process from exposure to development, aiming to improve photolithography resolution. This contributes significantly to the advancement of semiconductor manufacturing technology.
 <br><br>
-In 2020, I graduated with a B.S. in Physics from Shanxi University, where I studied under the guidance of Prof. LI Weidong. Following graduation, I had the opportunity to delve into the molecular beam epitaxy (MBE) growth of Si/Ge nanowires with controlled in-plane orientation. This research was conducted under the supervision of Prof. ZHANG Jianjun from the Institute of Physics, Chinese Academy of Sciences (CAS). This July, I earned my Master's degree through a joint program offered by the Southern University of Science and Technology and the Institute of Physics, CAS. Under the guidance of Prof. HE Yu, I dedicated my studies to silicon-based quantum dots, with a primary focus on quantum simulation using STM hydrogen depassivation lithography.
+In 2020, I graduated with a B.S. in Physics from Shanxi University, where I studied under the guidance of Prof. LI Weidong. Following graduation, I had the opportunity to delve into the molecular beam epitaxy (MBE) growth of Si/Ge nanowires with controlled in-plane orientation. This research was conducted under the supervision of Prof. ZHANG Jianjun from the Institute of Physics, Chinese Academy of Sciences (CAS). This June, I earned my Master's degree through a joint program offered by the Southern University of Science and Technology and the Institute of Physics, CAS. Under the guidance of Prof. HE Yu, I dedicated my studies to silicon-based quantum dots, with a primary focus on quantum simulation using STM hydrogen depassivation lithography.
 </p>
 </details>
 <div class="half-line"><br></div>
@@ -66,7 +66,7 @@ To comprehensively enhance my experimental proficiency, I actively engaged in le
 <br><br>
 Additionally, alongside my experimental research, I devoted considerable effort to acquiring and honing my skills in Python programming, enabling calculations for simple quantum mechanics problems. For instance, I successfully calculated the energy spectrum of the static SSH model, a significant model for topological insulators, and further elucidated the quasi-energy spectrum and transport properties of the dynamic AC-driven SSH model. Besides, recent works include completing a chapter on the simulation of one-dimensional spin chains using STM technology in the atomic manufacturing textbook edited by Prof. SONG Fengqi of Nanjing University. 
 <br><br>
-Finally, I was honored as an Outstanding Graduate Student and an Outstanding Graduating Student by SUStech this year.
+Finally, I was honored as an outstanding graduate student and an outstanding graduating student by SUStech, and I obtained my master's degree in June this year.
 </p>
 </details>
 <div class="half-line"><br></div>
