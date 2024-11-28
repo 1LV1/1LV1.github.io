@@ -7,7 +7,12 @@ redirect_from:
   - /personal-statement.html
 ---
 
-Introduction
+
+<details>
+  <summary style="font-size: 24px;">Introduction</summary>
+  I am pursuing a Master's degree in a joint program offered by the Southern University of Science and Technology and the Institute of Physics, Chinese Academy of Sciences. Under the guidance of PI He Yu, I have dedicated my studies to silicon-based quantum dots, primarily focused on quantum simulation utilizing STM hydrogen depassivation lithography. 
+</details>
+
 ------------
 I am pursuing a Master's degree in a joint program offered by the Southern University of Science and Technology and the Institute of Physics, Chinese Academy of Sciences. Under the guidance of PI He Yu, I have dedicated my studies to silicon-based quantum dots, primarily focused on quantum simulation utilizing STM hydrogen depassivation lithography. 
 
