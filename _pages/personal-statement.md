@@ -6,20 +6,20 @@ redirect_from:
   - /md/
   - /personal-statement.html
 ---
-
+<br><br>
 
 <details>
-  <summary style="font-size: 24px;">Introduction</summary>
-  I am pursuing a Master's degree in a joint program offered by the Southern University of Science and Technology and the Institute of Physics, Chinese Academy of Sciences. Under the guidance of PI He Yu, I have dedicated my studies to silicon-based quantum dots, primarily focused on quantum simulation utilizing STM hydrogen depassivation lithography. 
+  <summary style="font-size: 28px;">Introduction</summary>
+  
+I am a Product Engineer in the semiconductor industry, specializing in computational lithography. My work involves Python programming to enhance and validate photolithography models and new features. The primary model I work on simulates the entire process from exposure to development, aiming to improve photolithography resolution. This contributes significantly to the advancement of semiconductor manufacturing technology.
+
+In 2020, I graduated with a B.S. in Physics from Shanxi University, where I studied under the guidance of Prof. LI Weidong. Following graduation, I had the opportunity to delve into the molecular beam epitaxy (MBE) growth of Si/Ge nanowires with controlled in-plane orientation. This research was conducted under the supervision of Prof. ZHANG Jianjun from the Institute of Physics, Chinese Academy of Sciences (CAS). This July, I earned my Master's degree through a joint program offered by the Southern University of Science and Technology and the Institute of Physics, CAS. Under the guidance of Prof. HE Yu, I dedicated my studies to silicon-based quantum dots, with a primary focus on quantum simulation using STM hydrogen depassivation lithography.
+
 </details>
 
-------------
-I am pursuing a Master's degree in a joint program offered by the Southern University of Science and Technology and the Institute of Physics, Chinese Academy of Sciences. Under the guidance of PI He Yu, I have dedicated my studies to silicon-based quantum dots, primarily focused on quantum simulation utilizing STM hydrogen depassivation lithography. 
+<details>
+  <summary style="font-size: 28px;">Postgraduate Education</summary>
 
-I graduated with a B.S. in Physics from Shanxi University, where I learned under the guidance of Prof. Li Weidong. After graduation, I was fortunate to study molecular beam epitaxy (MBE) growth of Si/Ge nanowires with controlled in-plane orientation. This research was conducted under the supervision of PI Zhang Jianjun from the Institute of Physics, CAS. I then continued my academic journey at the Southern University of Science and Technology, where I explored quantum simulation based on STM hydrogen depassivation lithography with the guidance of PI He Yu. My present central research is around the quantum simulation of the multi-body Su-Schrieffer-Heeger (SSH) model, a topic that continues to captivate my intellectual curiosity.
-
-Postgraduate Education
-----------------------
 I began my postgraduate studies and research journey in 2021 after achieving the highest score on the admission exam. I was privileged to be part of Group N09 at the renowned Institute of Physics, CAS, where I focused on the growth of in-plane ordered Si/Ge nanowires using molecular beam epitaxy.
 
 In my initial semester of graduate school, I dedicatedly pursued multiple professional courses, achieving an excellent GPA of 3.74. Additionally, I had the opportunity to acquire practical experience in operating STM and MBE combined ultrahigh vacuum systems under the guidance of Prof. Wang Gan from the Southern University of Science and Technology while studying the interfacial superconductivity of iron telluride heterojunctions.
@@ -50,9 +50,11 @@ To comprehensively enhance my experimental proficiency, I actively engaged in le
 
 Additionally, alongside my experimental research, I devoted considerable effort to acquiring and honing my skills in Python programming, enabling calculations for simple quantum mechanics problems. For instance, I successfully calculated the energy spectrum of the static SSH model, a significant model for topological insulators, and further elucidated the quasi-energy spectrum and transport properties of the dynamic AC-driven SSH model. Besides, recent works include completing a chapter on the simulation of one-dimensional spin chains using STM technology in the atomic manufacturing textbook edited by Professor Song Fengqi of Nanjing University. 
 
+</details>
 
-Undergraduate Education
--------------------------------
+<details>
+  <summary style="font-size: 28px;">Undergraduate Education</summary>
+
 In 2016, I was admitted to the School of Mathematical Sciences at Shanxi University, achieving the highest score in the college entrance examination. As an active class committee member, I diligently organized and participated in various student organizations, community activities, and class events. By fostering a positive, optimistic, united, and friendly class culture, I successfully cultivated collective cohesion and established a conducive academic atmosphere for classmates' studies and daily lives. Consequently, I was honored with the title of "Excellent Student Leader."
 
 In the following year, though ranking 4th out of 198 students in the School of Mathematical Sciences, I decided to switch my major to the School of Physical and Electronic Engineering. Then, under the guidance of Prof. Xiao Liantuan, I embarked on an undergraduate scientific research project titled "Real-time Single Molecule Dynamics Information Extraction Based on Quantum Coherence Modulation and FPGA."
@@ -62,6 +64,12 @@ In March 2019, I was privileged to present an oral report entitled "Laser Medica
 
 Finally, under the meticulous guidance of Prof. Li Weidong, I successfully culminated my undergraduate journey by completing my graduation thesis on the topic of "Theoretical Research on Rabi Oscillation and Rabi Spectrum." My thesis underwent rigorous examination and ultimately garnered recognition as an excellent graduation thesis.
 
-Outlook
------------
+</details>
+
+<details>
+  <summary style="font-size: 28px;">Outlook</summary>
+
 I'm embarking on a path of scientific research, ready to tackle any obstacles that come my way. The road ahead is long, but I'm dedicated to exploring it. I'm enthusiastic about pursuing my ideals, and I will always cherish the vigor of my youth. I'm aiming high but staying grounded as I chart my future course.
+
+</details>
+
