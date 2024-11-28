@@ -15,11 +15,11 @@ Education
 * B.S. at School of Physical and Electronic Engineering, Shanxi University, 2020
 
 GPA
-======
+-------
 * 3.65 / 4.00
 
 Research Experience
-======
+-------------
 * 2021-2024: 
   * Advisor: Yu He 
   * Institute of Quantum Science and Engineering, Southern University of Science and Technology
@@ -48,14 +48,14 @@ Research Experience
   * Participated in the 14th National Conference on Laser Technology and Optoelectronics (LTO 2019) and the Chinese Optical Ten Progress in 2018 and gave an oral report at the conference.
 
 Work Experience
-======
+------------
 * 2024:
   * DJEL
   * Product Engineer
   * Main Responsibility: simulation of the process from exposure to development, improvement and test of lithography models, features supplement of products based on Python, gauge and model check, mask design
 
 Honors & Awards:
-======
+-----------
 * 2017:
   * University Excellent Student Leader
    
@@ -80,24 +80,24 @@ Honors & Awards:
 
 
 Skills & Interests
-======
+--------------
 * Languages: Mandarin, English
 * IT: Python, Matlab, Linux, C, Comsol, KLayout, Microsoft Office, Mathematica, Inkscape, Zemax, Materials Studio, Vesta, Origin
 * Research Interests: Quantum Simulation, Quantum Computing, Semiconductor Quantum Dots, Surface Physics, Image Processing
 * Life Interests: Swimming, Table tennis, Piano, Singing, Badminton
 
 Patent
-======
+-----
 * Yuting Lyu et.al., "A 3D Integrated Quantum Chip and Its Fabrication Method", Invention Patent, China, 202410577620.5[P].
     
 Publication
-======
+--------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
   
 Contact Me
-======
+---------
 * Tel: (+86) 178-3620-5462 
 * E-mail: 1ytlyu1@gmail.com
