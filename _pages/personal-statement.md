@@ -8,16 +8,16 @@ redirect_from:
 ---
 <style>
 details summary {
-  font-size: 32px; /* 设置折叠标题的字号 */
+  font-size: 28px; /* 设置折叠标题的字号 */
 }
 
 details[open] summary {
-  font-size: 32px; /* 设置展开后折叠标题的字号 */
+  font-size: 28px; /* 设置展开后折叠标题的字号 */
 }
 
 details p {
   font-size: 24px; /* 设置被折叠部分的字号 */
-  margin-top: 0px; /* 去除段落的上边距 */
+  margin-top: 12px; /* 去除段落的上边距 */
   margin-bottom: 12px; /* 设置段落的下边距 */
 }
 </style>
