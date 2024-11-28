@@ -26,7 +26,7 @@ details p {
   line-height: 0.5;
 }
 </style>
-
+<div class="half-line"><br></div>
 <div class="half-line"><br></div>
 <details>
   <summary>Introduction</summary>
@@ -67,7 +67,7 @@ To comprehensively enhance my experimental proficiency, I actively engaged in le
 Additionally, alongside my experimental research, I devoted considerable effort to acquiring and honing my skills in Python programming, enabling calculations for simple quantum mechanics problems. For instance, I successfully calculated the energy spectrum of the static SSH model, a significant model for topological insulators, and further elucidated the quasi-energy spectrum and transport properties of the dynamic AC-driven SSH model. Besides, recent works include completing a chapter on the simulation of one-dimensional spin chains using STM technology in the atomic manufacturing textbook edited by Professor Song Fengqi of Nanjing University. 
 </p>
 </details>
-
+<div class="half-line"><br></div>
 <details>
   <summary>Undergraduate Education</summary>
 <p>
@@ -82,7 +82,7 @@ In March 2019, I was privileged to present an oral report entitled "Laser Medica
 Finally, under the meticulous guidance of Prof. Li Weidong, I successfully culminated my undergraduate journey by completing my graduation thesis on the topic of "Theoretical Research on Rabi Oscillation and Rabi Spectrum." My thesis underwent rigorous examination and ultimately garnered recognition as an excellent graduation thesis.
 </p>
 </details>
-
+<div class="half-line"><br></div>
 <details>
   <summary>Outlook</summary>
 <p>
