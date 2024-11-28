@@ -1,14 +1,14 @@
 <style>
 details summary {
-  font-size: 16px; /* 设置折叠标题的字号 */
+  font-size: 32px; /* 设置折叠标题的字号 */
 }
 
 details[open] summary {
-  font-size: 14px; /* 设置展开后折叠标题的字号 */
+  font-size: 32px; /* 设置展开后折叠标题的字号 */
 }
 
 details p {
-  font-size: 14px; /* 设置被折叠部分的字号 */
+  font-size: 24px; /* 设置被折叠部分的字号 */
   margin-top: 12px; /* 去除段落的上边距 */
   margin-bottom: 12px; /* 设置段落的下边距 */
 }
@@ -60,12 +60,12 @@ After the completion of initial exploratory work and the establishment of sound 
 To comprehensively enhance my experimental proficiency, I actively engaged in learning and successfully completed application tests involving various micro-nano machining equipments, such as the step profiler, lithography machine, laser direct writing system, and SEM.
 <br><br>
 Additionally, alongside my experimental research, I devoted considerable effort to acquiring and honing my skills in Python programming, enabling calculations for simple quantum mechanics problems. For instance, I successfully calculated the energy spectrum of the static SSH model, a significant model for topological insulators, and further elucidated the quasi-energy spectrum and transport properties of the dynamic AC-driven SSH model. Besides, recent works include completing a chapter on the simulation of one-dimensional spin chains using STM technology in the atomic manufacturing textbook edited by Professor Song Fengqi of Nanjing University. 
-
+</p>
 </details>
 
 <details>
   <summary style="font-size: 28px;">Undergraduate Education</summary>
-<br>
+<p>
 In 2016, I was admitted to the School of Mathematical Sciences at Shanxi University, achieving the highest score in the college entrance examination. As an active class committee member, I diligently organized and participated in various student organizations, community activities, and class events. By fostering a positive, optimistic, united, and friendly class culture, I successfully cultivated collective cohesion and established a conducive academic atmosphere for classmates' studies and daily lives. Consequently, I was honored with the title of "Excellent Student Leader."
 <br><br>
 In the following year, though ranking 4th out of 198 students in the School of Mathematical Sciences, I decided to switch my major to the School of Physical and Electronic Engineering. Then, under the guidance of Prof. Xiao Liantuan, I embarked on an undergraduate scientific research project titled "Real-time Single Molecule Dynamics Information Extraction Based on Quantum Coherence Modulation and FPGA."
@@ -74,13 +74,13 @@ In August 2018, representing our school, I participated in the 9th China Undergr
 In March 2019, I was privileged to present an oral report entitled "Laser Medical Image Processing based on Neighborhood Concerned Gaussian Mixture Model" at the 14th National Conference on Laser Technology and Optoelectronics (LTO 2019) and the Chinese Optical Ten Progress in 2018. Meanwhile, I published this paper as the first author. In this research, we proposed a novel approach to laser medical image segmentation utilizing the Neighborhood Concerned Gaussian mixture model, addressing its limitations in terms of segmentation accuracy and noise resistance. In July 2019, I participated in the Provincial Competition of the 16th "Challenge Cup" Undergraduate Extracurricular Academic Science and Technology Work Contest for College Students. Presenting my personal project, I was honored to be awarded the grand prize.
 <br><br>
 Finally, under the meticulous guidance of Prof. Li Weidong, I successfully culminated my undergraduate journey by completing my graduation thesis on the topic of "Theoretical Research on Rabi Oscillation and Rabi Spectrum." My thesis underwent rigorous examination and ultimately garnered recognition as an excellent graduation thesis.
-
+</p>
 </details>
 
 <details>
   <summary style="font-size: 28px;">Outlook</summary>
-<br>
+<p>
 I'm embarking on a path of scientific research, ready to tackle any obstacles that come my way. The road ahead is long, but I'm dedicated to exploring it. I'm enthusiastic about pursuing my ideals, and I will always cherish the vigor of my youth. I'm aiming high but staying grounded as I chart my future course.
-
+</p>
 </details>
 
