@@ -8,11 +8,12 @@ redirect_from:
 ---
 <style>
 details summary {
-  font-size: 28px; /* 设置折叠标题的字号 */
+  font-weight: bold;
+  font-size: 20px;
 }
 
 details[open] summary {
-  font-size: 28px; /* 设置展开后折叠标题的字号 */
+  font-size: 20px; /* 设置展开后折叠标题的字号 */
 }
 
 details p {
@@ -29,6 +30,7 @@ details p {
 <details>
   <summary>Introduction</summary>
 <p>
+  <br>
 I am a Product Engineer in the semiconductor industry, specializing in computational lithography. My work involves Python programming to enhance and validate photolithography models and new features. The primary model I work on simulates the entire process from exposure to development, aiming to improve photolithography resolution. This contributes significantly to the advancement of semiconductor manufacturing technology.
 <br><br>
 In 2020, I graduated with a B.S. in Physics from Shanxi University, where I studied under the guidance of Prof. LI Weidong. Following graduation, I had the opportunity to delve into the molecular beam epitaxy (MBE) growth of Si/Ge nanowires with controlled in-plane orientation. This research was conducted under the supervision of Prof. ZHANG Jianjun from the Institute of Physics, Chinese Academy of Sciences (CAS). This July, I earned my Master's degree through a joint program offered by the Southern University of Science and Technology and the Institute of Physics, CAS. Under the guidance of Prof. HE Yu, I dedicated my studies to silicon-based quantum dots, with a primary focus on quantum simulation using STM hydrogen depassivation lithography.
@@ -38,6 +40,7 @@ In 2020, I graduated with a B.S. in Physics from Shanxi University, where I stud
 <details>
   <summary>Postgraduate Education</summary>
 <p>
+  <br>
 I began my postgraduate studies and research journey in 2021 after achieving the highest score on the admission exam. I was privileged to be part of Group N09 at the renowned Institute of Physics, CAS, where I focused on the growth of in-plane ordered Si/Ge nanowires using molecular beam epitaxy.
 <br><br>
 In my initial semester of graduate school, I dedicatedly pursued multiple professional courses, achieving an excellent GPA of 3.74. Additionally, I had the opportunity to acquire practical experience in operating STM and MBE combined ultrahigh vacuum systems under the guidance of Prof. Wang Gan from the Southern University of Science and Technology while studying the interfacial superconductivity of iron telluride heterojunctions.
@@ -67,6 +70,7 @@ Additionally, alongside my experimental research, I devoted considerable effort 
 <details>
   <summary>Undergraduate Education</summary>
 <p>
+  <br>
 In 2016, I was admitted to the School of Mathematical Sciences at Shanxi University, achieving the highest score in the college entrance examination. As an active class committee member, I diligently organized and participated in various student organizations, community activities, and class events. By fostering a positive, optimistic, united, and friendly class culture, I successfully cultivated collective cohesion and established a conducive academic atmosphere for classmates' studies and daily lives. Consequently, I was honored with the title of "Excellent Student Leader."
 <br><br>
 In the following year, though ranking 4th out of 198 students in the School of Mathematical Sciences, I decided to switch my major to the School of Physical and Electronic Engineering. Then, under the guidance of Prof. Xiao Liantuan, I embarked on an undergraduate scientific research project titled "Real-time Single Molecule Dynamics Information Extraction Based on Quantum Coherence Modulation and FPGA."
@@ -81,6 +85,7 @@ Finally, under the meticulous guidance of Prof. Li Weidong, I successfully culmi
 <details>
   <summary>Outlook</summary>
 <p>
+  <br>
 I'm embarking on a path of scientific research, ready to tackle any obstacles that come my way. The road ahead is long, but I'm dedicated to exploring it. I'm enthusiastic about pursuing my ideals, and I will always cherish the vigor of my youth. I'm aiming high but staying grounded as I chart my future course.
 </p>
 </details>
