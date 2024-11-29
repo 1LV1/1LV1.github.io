@@ -20,9 +20,9 @@ Advised by Prof. [ZHANG Jianjun](http://edu.iphy.ac.cn/moreintro.php?id=2212) fr
 Research Interests
 ======
 
-Quantum Simulation: Su-Schrieffer-Heeger model, Anderson localization, critical phase...
+Quantum Simulation, Quantum Computing, Semiconductor Quantum Dots, Surface Physics, Image Processing
 
-Laboratory Equipment: Variable and low-temperature STM ultrahigh vacuum systems combined with MBE.
+Laboratory Equipment: Variable and low-temperature STM ultrahigh vacuum systems combined with MBE
 
 More Information
 ======
