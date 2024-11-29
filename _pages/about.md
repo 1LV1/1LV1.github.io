@@ -20,7 +20,7 @@ Advised by Prof. [ZHANG Jianjun](http://edu.iphy.ac.cn/moreintro.php?id=2212) fr
 Research Interests
 ======
 
-Quantum Simulation, Quantum Computing, Semiconductor Quantum Dots, Surface Physics, Image Processing
+Quantum Simulation, Quantum Computing, Semiconductor Quantum Dots, Surface Physics
 
 Laboratory Equipment: Variable and low-temperature STM ultrahigh vacuum systems combined with MBE
 
