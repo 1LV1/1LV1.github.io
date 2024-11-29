@@ -34,7 +34,7 @@ Research Experience
   * Institute of Physics, Chinese Academy of Sciences
   * N09 Semiconductor Quantum Materials and Devices research group
   * Project involved: controlled nucleation and growth of nanodots and nanowires
-  * Equipment: 4-inch and 6-inch of group VI MBE system
+  * Equipment: 4-inch and 6-inch of group VI MBE systems
 
 * 2020:
   * Advisor: Weidong Li
