@@ -52,14 +52,14 @@ At the initial stage of building the laboratory equipment, I actively participat
 <br><br>
 After the completion of initial exploratory work and the establishment of sound experimental conditions, I embarked on further research focusing on the following subjects:
 <ul>
-<li> Comparison of the impact from different incorporation and annealing conditions, as well as the presence or absence of a locking layer, on the segregation of P and B and on the conductivity of samples.</li>
-<li> Realization low-temperature homoepitaxy of silicon, aiming at achieving exceptional surface quality and atomic-level flatness.</li>
-<li> Rigorous inspection and comparison of the conductivity and leakage in tunnel junctions with varying gap widths, aiming to optimize the performance of more complex devices.</li>
-<li> Exploration single-electron transistors (SETs) with highly steady transport properties.</li>
+<li> Comparison of the impact from different conditions of annealing and growth, on the segregation of P or B and on the conductivity of samples.</li>
+<li> Low-temperature homoepitaxy of silicon, generating high-quality surfaces with atomic-level flatness.</li>
+<li> Exploration of the conductivity and leakage in tunnel junctions with varying gap widths, to optimize the performance of more complex devices.</li>
+<li> Studying single-electron transistors (SETs) with highly steady transport properties.</li>
 <li> Studying the properties of single-electron pumps (SEPs) with the transport characteristics of multiple quantum dots.</li>
-<li> Quantum simulation of the Su–Schrieffer–Heeger (SSH) model utilizing STM hydrogen depassivation lithography technique.</li>
-<li> Advancing the alignment technique of 3D top-electrodes integration, enabling the precise control of energy level for various devices.</li>
-<li> Experimental realization of the Anderson localization utilizing quantum dot systems in Si.</li>
+<li> Quantum simulation of the Su–Schrieffer–Heeger (SSH) model based on highly controllable quantum dot chains.</li>
+<li> Experimental simulating the phenomenon of topologically protected Anderson localization.</li>
+<li> Developing a method for the fabrication of three-dimensional integrated, multi-layered quantum chips.</li>
 </ul>
   
 To comprehensively enhance my experimental proficiency, I actively engaged in learning and successfully completed application tests involving various micro and nano machining equipment, such as the step profiler, lithography machine, laser direct writing system, and SEM.
