@@ -53,7 +53,7 @@ At the initial stage of building the laboratory equipment, I actively participat
 After the completion of initial exploratory work and the establishment of sound experimental conditions, I embarked on further research focusing on the following subjects:
 <ul>
 <li> Comparison of the impact from different conditions of annealing and growth, on the segregation of P or B and on the conductivity of samples.</li>
-<li> Low-temperature homoepitaxy of silicon, generating high-quality surfaces with atomic-level flatness.</li>
+<li> Low-temperature homoepitaxial growth of silicon, generating high-quality surfaces with atomic-level flatness.</li>
 <li> Exploration of the conductivity and leakage in tunnel junctions with varying gap widths, to optimize the performance of more complex devices.</li>
 <li> Studying single-electron transistors (SETs) with highly steady transport properties.</li>
 <li> Studying the properties of single-electron pumps (SEPs) with the transport characteristics of multiple quantum dots.</li>
@@ -64,7 +64,7 @@ After the completion of initial exploratory work and the establishment of sound 
   
 To comprehensively enhance my experimental proficiency, I actively engaged in learning and successfully completed application tests involving various micro and nano machining equipment, such as the step profiler, lithography machine, laser direct writing system, and SEM.
 <br><br>
-Additionally, alongside my experimental research, I devoted considerable effort to acquiring and honing my skills in Python programming, enabling calculations for simple quantum mechanics problems. For instance, I successfully calculated the energy spectrum of the static SSH model, a significant model for topological insulators, and further elucidated the quasi-energy spectrum and transport properties of the dynamic AC-driven SSH model. Besides, recent works include completing a chapter on the simulation of one-dimensional spin chains using STM technology in the atomic manufacturing textbook edited by Prof. SONG Fengqi of Nanjing University. 
+Additionally, alongside my experimental research, I devoted effort to acquiring and honing my skills in Python programming for solving simple quantum mechanics problems. For instance, I calculated the energy spectrum of the static SSH model, a significant model for topological insulators, and further derived the quasi-energy spectrum and transport properties of the dynamic AC-driven SSH model. Besides, I compiled a chapter on the simulation of one-dimensional spin chains using STM technology for the atomic manufacturing textbook, edited by Prof. SONG Fengqi of Nanjing University, in 2023.
 <br><br>
 Finally, I was honored as an outstanding graduate student and an outstanding graduating student by SUStech, and I obtained my master's degree in June this year.
 </p>
