@@ -32,7 +32,7 @@ details p {
   <summary>Introduction</summary>
 <p>
   <br>
-I am a Product Engineer in the semiconductor industry, specializing in computational lithography. My work involves Python programming to enhance and validate photolithography models and new features. The primary model I work on simulates the entire process from exposure to development, aiming to improve photolithography resolution. This contributes to the advancement of semiconductor manufacturing technology.
+As a Product Engineer in the semiconductor industry, I specialize in computational lithography, developing and validating photolithography models and new features using Python. My core work involves simulating the end-to-end process from exposure to development, ensuring high-fidelity pattern transfer and critical dimension control—directly contributing to the advancement of semiconductor manufacturing technology. 
 <br><br>
 In 2020, I graduated with a B.S. in optoelectronic information science and engineering from Shanxi University, where I studied under the guidance of Prof. LI Weidong. Following graduation, I had the opportunity to delve into the MBE growth of Si/Ge nanowires with controlled in-plane orientation, under the supervision of Prof. ZHANG Jianjun from the Institute of Physics, Chinese Academy of Sciences (CAS). Then, under the guidance of Prof. HE Yu, I dedicated my studies to quantum dots in silicon, with a primary focus on quantum simulation using STM hydrogen depassivation lithography. This June, I earned my Master's degree through a joint program offered by the Southern University of Science and Technology and the Institute of Physics, CAS. 
 </p>
