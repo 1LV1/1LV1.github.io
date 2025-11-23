@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a product engineer in the semiconductor industry, currently occupied with Python programming for lithography models, which simulate the exposure to development process, contributing to the enhancement of photolithography resolution.
+I am a Product Engineer in the semiconductor industry, currently working on Python programming for lithography models that simulate the exposure-to-development process to ensure high-fidelity pattern transfer and critical dimension control.
 
-I completed my Master's degree in physics in June this year, as part of a joint program between [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) and [Institute of Physics, Chinese Academy of Sciences](http://english.iop.cas.cn/). 
+I hold a Master's degree in Physics from a joint program between [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) and [Institute of Physics, Chinese Academy of Sciences](http://english.iop.cas.cn/).
 
-Advised by Prof. [HE Yu](https://sustech.edu.cn/zh/faculties/heyu.html) from the Institute for Quantum Science and Engineering, SUSTech, I have dedicated my studies to the quantum simulation, primarily focused on quantum dots in silicon using scanning tunnelling microscopy (STM). 
+Under the advisory of Prof. [Yu He](https://sustech.edu.cn/zh/faculties/heyu.html) at the SUSTech Institute for Quantum Science and Engineering, my research is dedicated to quantum simulation, specializing in silicon-based quantum dot devices engineered through scanning tunneling microscopy (STM).
 
-Advised by Prof. [ZHANG Jianjun](http://edu.iphy.ac.cn/moreintro.php?id=2212) from the Institute of Physics, CAS, I had the opportunity to study the molecular beam epitaxy (MBE) growth of controlled in-plane Si/Ge nanowires.
+Under the supervision of Prof. [Jianjun Zhang](http://edu.iphy.ac.cn/moreintro.php?id=2212) at the Institute of Physics, CAS, I focused on the molecular beam epitaxial (MBE) growth of controlled in-plane Si/Ge nanowires.
 
 
 Research Interests
