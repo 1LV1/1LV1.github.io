@@ -49,11 +49,11 @@ Research Experience
 
 Work Experience
 ------------
-* 2024-now:
+* 2024-Now:
   * DJEL
   * Product Engineer
   * Main Responsibility: end-to-end lithography process simulation; lithography model calibration & validation; product feature implementation & model verification; photomask design & quality control.
-  * Main project: genetic algorithm-based model calibration & testing; large-scale, irregularly shaped photomask design & layout; design-to-database (D2DB) verification & bright-field mask inspection.
+  * Main project: genetic algorithm-based model calibration & testing; code-driven generation of large-scale mask layouts; Die-to-Database (D2DB) verification & bright-field mask inspection.
 
 Honors & Awards:
 -----------
