@@ -49,7 +49,7 @@ Research Experience
 
 Work Experience
 ------------
-* 2024:
+* 2024-now:
   * DJEL
   * Product Engineer
   * Main Responsibility: end-to-end lithography process simulation; lithography model calibration & validation; product feature implementation & model verification; photomask design & quality control.
