@@ -26,8 +26,8 @@ Research Experience
   * STM Laboratory of Semiconductor Quantum Dots Quantum Computing research group
   * Main project: 1D quantum simulator on quantum dots in silicon, 3D integrated quantum chip
   * Projects involved: quantum simulation of SSH model and Anderson localization, single electron transistors with steady transport properties, single electron pumps with multi-quantum dot transport characteristics, segregation of doped atoms, low-temperature epitaxy of Si, etc.
-  * Participated in the entire process, from the building to the maturity of experimental systems. Duties include: devices design, theoretical calculation, software emulation, atomic precision chip manufacturing, molecular beam epitaxial growth, equipment installation and maintenance, STM tip electrochemical corrosion, etc.
-  * Equipment: STM ultrahigh vacuum systems combined with MBE, laser direct writing machine, SEM and other micro and nano fabrication equipment
+  * Participated in the entire process, from the building to the maturity of experimental systems. Duties include: quantum device design and modeling, theoretical calculation and derivation, software simulation and numerical modeling, atomically precise hydrogen desorption lithography, molecular beam epitaxial growth, UHV equipment installation, maintenance, and troubleshooting, electrochemical etching of STM tips, etc.
+  * Laboratory equipment: STM ultrahigh vacuum systems combined with MBE, laser direct writing machine, SEM and other micro and nano fabrication equipment
 
 * 2021: 
   * Advisor: Jianjun Zhang
@@ -40,19 +40,20 @@ Research Experience
   * Advisor: Weidong Li
   * Institute of Theoretical Physics, Shanxi University
   * Theoretical research on Rabi oscillation and Rabi spectrum
-  * the graduation thesis completed based on this topic was awarded as the outstanding undergraduate graduation thesis of Shanxi University in 2020.
+  * Culminating in a graduation thesis honored with the University Outstanding Thesis Award.
     
 * 2018-2019:
   * Independent research on the subject of laser medical image segmentation.
   * Laser Medical Image Processing Based on Neighborhood Concerning Gaussian Mixture Model
-  * Participated in the 14th National Conference on Laser Technology and Optoelectronics (LTO 2019) and the Chinese Optical Ten Progress in 2018 and gave an oral report at the conference.
+  * Presented an oral report at the 14th National Conference on Laser Technology and Optoelectronics (LTO 2019).
 
 Work Experience
 ------------
 * 2024:
   * DJEL
   * Product Engineer
-  * Main Responsibility: simulation of the process from exposure to development, improvement and test of lithography models, features supplement of products based on Python, gauge and model check, mask design
+  * Main Responsibility: end-to-end lithography process simulation; lithography model calibration & validation; product feature implementation & model verification; photomask design & quality control.
+  * Main project: genetic algorithm-based model calibration & testing; large-scale, irregularly shaped photomask design & layout; design-to-database (D2DB) verification & bright-field mask inspection.
 
 Honors & Awards:
 -----------
@@ -65,25 +66,25 @@ Honors & Awards:
   * National Second Prize of National Undergraduate Mathematical Contest in Modeling
     
 * 2019
-  * Provincial Outstanding Prize of the 16th "Challenge Cup" Undergraduate Extracurricular Academic Science and Technology Work Contest
+  * Provincial Grand Prize of the 16th "Challenge Cup" Undergraduate Extracurricular Academic Science and Technology Work Contest
   * National Third Prize of Mathematical Contest in Modeling
     
 * 2020
-  * University Excellent Graduation Thesis
+  * University Outstanding Graduation Thesis Award
     
 * 2021-2023
-  * The highest grades in research work evaluations every semester
+  * Consistently received the highest ratings in research evaluations across all semesters
  
 * 2024
-  * University Outstanding Graduate Student
-  * University Outstanding Graduating Graduate Student
+  * University Outstanding Graduate Student Award
+  * University Outstanding Graduating Graduate Student Award
 
 
 Skills & Interests
 --------------
 * Languages: Mandarin, English
 * IT: Python, Matlab, Linux, C, Comsol, KLayout, Microsoft Office, Mathematica, Inkscape, Zemax, Materials Studio, Vesta, Origin
-* Research Interests: Quantum Simulation, Quantum Electronic Transport, Quantum Computing, Semiconductor Quantum Dots, Surface Physics, Image Processing
+* Research Interests: Quantum Simulation, Quantum Electronic Transport, Surface Physics, Semiconductor Quantum Dots, Image Processing
 * Life Interests: Swimming, Table tennis, Piano, Singing, Badminton
 
 Patent
