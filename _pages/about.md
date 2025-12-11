@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Product Engineer in the semiconductor industry, currently working on Python programming for lithography models that simulate the exposure-to-development process to ensure high-fidelity pattern transfer and critical dimension control.
 
-I hold a Master's degree in Physics from a joint program between [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) and [Institute of Physics, Chinese Academy of Sciences](http://english.iop.cas.cn/).
+I hold a Master's degree in Physics from a joint program between [the Southern University of Science and Technology](https://www.sustech.edu.cn/en/) and [the Institute of Physics, Chinese Academy of Sciences](http://english.iop.cas.cn/).
 
 Under the advisory of Prof. [Yu He](https://sustech.edu.cn/zh/faculties/heyu.html) at the SUSTech Institute for Quantum Science and Engineering, my research is dedicated to quantum simulation, specializing in silicon-based quantum dot devices engineered through scanning tunneling microscopy (STM).
 
@@ -20,7 +20,7 @@ Under the supervision of Prof. [Jianjun Zhang](http://edu.iphy.ac.cn/moreintro.p
 Research Interests
 --------------
 
-Quantum Simulation, Quantum Electronic Transport, Surface Physics, Semiconductor Quantum Dots
+Spintronics, Quantum Simulation, Quantum Electronic Transport, Surface Physics, Semiconductor Quantum Dots
 
 Laboratory Equipment: Variable and low-temperature STM ultrahigh vacuum systems combined with MBE
 
