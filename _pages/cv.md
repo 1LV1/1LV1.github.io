@@ -84,7 +84,7 @@ Skills & Interests
 --------------
 * Languages: Mandarin, English
 * IT: Python, Matlab, Linux, C, Comsol, KLayout, Microsoft Office, Mathematica, Inkscape, Zemax, Materials Studio, Vesta, Origin
-* Research Interests: Quantum Simulation, Quantum Electronic Transport, Surface Physics, Semiconductor Quantum Dots, Image Processing
+* Research Interests: Spintronics, Quantum Simulation, Quantum Electronic Transport, Surface Physics, Semiconductor Quantum Dots, Image Processing
 * Life Interests: Swimming, Table tennis, Piano, Singing, Badminton
 
 Patent
