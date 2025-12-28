@@ -12,9 +12,9 @@ I am a Product Engineer in the semiconductor industry, currently working on Pyth
 
 I hold a Master's degree in Physics from a joint program between [the Southern University of Science and Technology](https://www.sustech.edu.cn/en/) and [the Institute of Physics, Chinese Academy of Sciences](http://english.iop.cas.cn/).
 
-Under the advisory of Prof. [Yu He](https://sustech.edu.cn/zh/faculties/heyu.html) at the SUSTech Institute for Quantum Science and Engineering, my research is dedicated to quantum simulation, specializing in silicon-based quantum dot devices engineered through scanning tunneling microscopy (STM).
+Under the advisory of Prof. [Yu He](https://sziqa.ac.cn/category/1044/detail/5399) at the SUSTech Institute for Quantum Science and Engineering, my research is dedicated to quantum simulation, specializing in silicon-based quantum dot devices engineered through scanning tunneling microscopy (STM).
 
-Under the supervision of Prof. [Jianjun Zhang](http://edu.iphy.ac.cn/moreintro.php?id=2212) at the Institute of Physics, CAS, I focused on the molecular beam epitaxial (MBE) growth of controlled in-plane Si/Ge nanowires.
+Under the supervision of Prof. [Jianjun Zhang](https://iop.cas.cn/rcjy/zgjgwry/?id=2212) at the Institute of Physics, CAS, I focused on the molecular beam epitaxial (MBE) growth of controlled in-plane Si/Ge nanowires.
 
 
 Research Interests
